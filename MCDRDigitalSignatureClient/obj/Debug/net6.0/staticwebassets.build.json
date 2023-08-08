@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7r/T2Qg6BQNhMwM8egbxGkQqd0ANxOZph4EIH5h5CiY=",
+  "Source": "MCDRDigitalSignatureClient",
+  "BasePath": "_content/MCDRDigitalSignatureClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
